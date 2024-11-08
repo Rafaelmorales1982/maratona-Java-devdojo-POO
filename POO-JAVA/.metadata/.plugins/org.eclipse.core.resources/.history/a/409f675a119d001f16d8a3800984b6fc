@@ -1,0 +1,16 @@
+package academy.devdojo.maratonajava.javacore.introducaometodos.dominio;
+
+public class Calculadora {
+
+	//criando um método soma
+	public void somaDoisNumeros() {
+		System.out.println("A Soma dois números :"+(10 + 10));
+	}
+	
+	//criando método subtrair
+	public void subtrairDoisNumeros() {
+		System.out.println("A Subtração de dois números: "+(22 - 2));
+	}
+	
+	
+}
