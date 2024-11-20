@@ -1,0 +1,17 @@
+package academy.devdojo.maratonajava.javacore.blocosinicializacao.dominio;
+
+public class Animes {
+	private String nome;
+	private int[] episodios = {1,2,3,4,5,6,7,8,9,10,11,12};
+	
+	
+	//método construtor
+	public Animes() {
+		for(int episodio : episodios) {
+			System.out.println(episodio);
+		}
+		
+	}
+	
+	
+}
