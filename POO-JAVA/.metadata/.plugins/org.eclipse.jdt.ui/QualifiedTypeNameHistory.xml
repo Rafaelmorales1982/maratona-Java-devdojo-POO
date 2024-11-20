@@ -5,4 +5,6 @@
     <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.introducaoclasses.dominio.Professor"/>
     <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.introducaoclasses.dominio.Carros"/>
     <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.introducaometodos.dominio.Calculadora"/>
+    <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.introducaometodos.dominio.Funcionario"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

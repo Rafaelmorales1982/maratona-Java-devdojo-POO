@@ -1,0 +1,34 @@
+package academy.devdojo.maratonajava.javacore.introducaometodos.dominio;
+
+public class Funcionario {
+
+	public String nome;
+	public int idade;
+	public double salarios[];
+	
+
+	
+	public Funcionario(String nome, int idade, double[] salarios) {
+	
+		this.nome = nome;
+		this.idade = idade;
+		this.salarios = salarios;
+	}
+
+	public void imprime() {
+		System.out.println("Nome funcionário: "+nome);
+		System.out.println("idade funcionário: "+idade);
+	    mapearSalarios();
+		System.out.println("Média salarial: ");
+	}
+	
+	public void mapearSalarios() {
+		for (double qtdSalarios : salarios) {
+		System.out.printf("\n Salario: "+String.format("%2.f "),qtdSalarios); 	
+		}
+		
+	}
+	
+	
+	
+}

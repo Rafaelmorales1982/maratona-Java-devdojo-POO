@@ -1,0 +1,13 @@
+package academy.devdojo.maratonajava.javacore.introducaometodos.dominio;
+//sobre aclopamento
+public class Pessoa {
+	
+	public String nome;
+	public int idade;
+	
+	
+	public void imprime() {
+		System.out.println("Nome: "+this.nome);
+		System.out.println("Idade: "+this.idade);
+	}
+}
