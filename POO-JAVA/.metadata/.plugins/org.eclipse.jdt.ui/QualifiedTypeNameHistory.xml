@@ -5,6 +5,12 @@
     <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.introducaoclasses.dominio.Professor"/>
     <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.introducaoclasses.dominio.Carros"/>
     <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.introducaometodos.dominio.Calculadora"/>
-    <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.introducaometodos.dominio.Funcionario"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.associacao.dominio.Jogador"/>
+    <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.associacao.dominio.Time"/>
+    <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.associacao.dominio.Professor"/>
+    <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.associacao.dominio.Escola"/>
+    <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.introducaometodos.dominio.Funcionario"/>
+    <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.associacao.dominio.SalaoBeleza"/>
+    <fullyQualifiedTypeName name="academy.devdojo.maratonajava.javacore.associacao.dominio.FuncionariosSalao"/>
 </qualifiedTypeNameHistroy>
